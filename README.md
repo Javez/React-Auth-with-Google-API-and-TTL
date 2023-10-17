@@ -1,4 +1,4 @@
-# **React Quotes app with Firebase**
+# **React Auth app with Google API**
 
 Simple react authentication app with history, tokens, time to life of tokens, etc.
 ```
